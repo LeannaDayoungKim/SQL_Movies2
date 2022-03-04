@@ -1,0 +1,10 @@
+drop table dbcourse_actor;
+ drop table dbcourse_audition;
+drop table dbcourse_director;
+drop table dbcourse_film_festival;
+drop table dbcourse_filmography;
+drop table dbcourse_investor;
+drop table dbcourse_movie;
+drop table dbcourse_movie_asset;
+drop table dbcourse_recruit;
+drop table dbcourse_title_id;
